@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day1_CalorieCounting", "Con
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2_RockPaperScissors", "Day2_RockPaperScissors\Day2_RockPaperScissors.csproj", "{C3A35D98-5755-4FA2-97B0-639AE18D5BAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3_RucksackReorganization", "Day3_RucksackReorganization\Day3_RucksackReorganization.csproj", "{EEC38CC5-ECCA-4637-9C4F-AE1BB5ABEE6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3_RucksackReorganization", "Day3_RucksackReorganization\Day3_RucksackReorganization.csproj", "{EEC38CC5-ECCA-4637-9C4F-AE1BB5ABEE6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4_CampCleanup", "Day4_CampCleanup\Day4_CampCleanup.csproj", "{80184EB7-F85E-4C06-A750-136766517A80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day4_CampCleanup", "Day4_CampCleanup\Day4_CampCleanup.csproj", "{80184EB7-F85E-4C06-A750-136766517A80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day5_SupplyStacks", "Day5_SupplyStacks\Day5_SupplyStacks.csproj", "{FB8B9ADA-AA82-438A-B92C-631441A895A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6_TuningTrouble", "Day6_TuningTrouble\Day6_TuningTrouble.csproj", "{49E0732E-6982-44C6-B353-82385F3DA7EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{80184EB7-F85E-4C06-A750-136766517A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80184EB7-F85E-4C06-A750-136766517A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80184EB7-F85E-4C06-A750-136766517A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8B9ADA-AA82-438A-B92C-631441A895A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8B9ADA-AA82-438A-B92C-631441A895A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8B9ADA-AA82-438A-B92C-631441A895A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8B9ADA-AA82-438A-B92C-631441A895A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49E0732E-6982-44C6-B353-82385F3DA7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E0732E-6982-44C6-B353-82385F3DA7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E0732E-6982-44C6-B353-82385F3DA7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E0732E-6982-44C6-B353-82385F3DA7EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
